@@ -49,18 +49,18 @@ const Content = () => {
                             </div>
                             <div className="about-text">
                                 <p>
-                                    Over a year experienced in developing mobile casual games. Implemented many gamification features such as achievement, mission and reward, tutorial.
+                                    Over a year experience in developing mobile casual games. I have implemented many gamification features such as achievement, mission and reward, tutorial.
                                 </p>
                                 <p>
-                                    Worked with peer-to-peer online game made ultilizing PUN technology. Supports up to 8 players per match with reconnection, lag compensation and buffered RPCs.
+                                    I developed peer-to-peer online games ultilizing PUN technology, which supported up to 8 players per match with reconnection, lag compensation and buffered RPCs.
                                 </p>
                                 <p>
-                                    Developed gamificaition features on Microsoft Playfab: Storing player achievements, rewards and tracking player events. Auto refresh, lock event contents.
+                                    Developed gamificaition features on Microsoft Playfab: Storing player achievements, rewards and tracking player events. I built an automation component for updating event contents in game everyday.
                                 </p>
 
                             </div>
                             
-                            <a className="btn" href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-c%C3%B4ng-qu%E1%BB%91c-c%C6%B0%E1%BB%9Dng-47101b16b/">Linkedin</a>
+                            <a className="btn" href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-c%C3%B4ng-qu%E1%BB%91c-c%C6%B0%E1%BB%9Dng-47101b16b/" target="_blank">Linkedin</a>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ const Content = () => {
                             <div className="service-text">
                                 <h3>Game Design</h3>
                                 <p>
-                                    My favorite game genre is RTS. So I'm really interested in balancing characters, character counter charts and designing actions for player to do base on the fase of the game.
+                                    My favorite game genre is RTS. So I'm really interested in balancing characters, character counter charts and designing actions for player to do base on the phase of the game.
                                 </p>
                             </div>
                         </div>
@@ -204,7 +204,7 @@ const Content = () => {
                                 <img src="img/EggTap.PNG" alt="Image"/>
                             </div>
                             <div className="portfolio-text">
-                                <h3>Tego - EggTap</h3>
+                                <h3>Tego - Tap Race</h3>
                                 <a className="btn" href="https://www.youtube.com/watch?v=LEu5JhMfMzQ&ab_channel=BrokenEggs" target="_blank">+</a>
                             </div>
                         </div>
@@ -215,7 +215,7 @@ const Content = () => {
                                 <img src="img/MetalArena.PNG" alt="Image"/>
                             </div>
                             <div className="portfolio-text">
-                                <h3>Tego - MetalArena</h3>
+                                <h3>Tego - Metal Arena</h3>
                                 <a className="btn" href="https://www.youtube.com/watch?v=ZAFcEKLujY4&ab_channel=BrokenEggs" target="_blank">+</a>
                             </div>
                         </div>
@@ -239,28 +239,6 @@ const Content = () => {
                             <div className="portfolio-text">
                                 <h3>JavaScript drawing</h3>
                                 <a className="btn" href="img/portfolio-4.jpg" data-lightbox="portfolio">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 wow fadeInUp" data-wow-delay="0.8s">
-                        <div className="portfolio-wrap">
-                            <div className="portfolio-img">
-                                <img src="img/portfolio-5.jpg" alt="Image"/>
-                            </div>
-                            <div className="portfolio-text">
-                                <h3>Social Mobile Apps</h3>
-                                <a className="btn" href="img/portfolio-5.jpg" data-lightbox="portfolio">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 wow fadeInUp" data-wow-delay="1s">
-                        <div className="portfolio-wrap">
-                            <div className="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image"/>
-                            </div>
-                            <div className="portfolio-text">
-                                <h3>Company Website</h3>
-                                <a className="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
