@@ -11,19 +11,19 @@ const Content = () => {
                         <div className="hero-content">
                             <div className="hero-text">
                                 <p>I'm</p>
-                                <h1>Kate Winslet</h1>
+                                <h1>Truong Cong Quoc Cuong</h1>
                                 <h2></h2>
                                 <div className="typed-text">Web Designer, Web Developer, Front End Developer, Apps Designer, Apps Developer</div>
                             </div>
                             <div className="hero-btn">
-                                <a className="btn" href="">Hire Me</a>
-                                <a className="btn" href="">Contact Me</a>
+                                <a className="btn" href="#portfolio">My works</a>
+                                <a className="btn" href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-c%C3%B4ng-qu%E1%BB%91c-c%C6%B0%E1%BB%9Dng-47101b16b/">Contact Me</a>
                             </div>
                         </div>
                     </div>
                     <div className="col-sm-12 col-md-6 d-none d-md-block">
                         <div className="hero-image">
-                            <img src="img/hero.png" alt="Hero Image"/>
+                            <img src="img/tigerman.png" alt="Hero Image"/>
                         </div>
                     </div>
                 </div>
@@ -38,47 +38,29 @@ const Content = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                         <div className="about-img">
-                            <img src="img/about.jpg" alt="Image"/>
+                            <img src="img/mindsetcat.jpg" alt="Image"/>
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="about-content">
                             <div className="section-header text-left">
                                 <p>Learn About Me</p>
-                                <h2>10 Years Experience</h2>
+                                <h2>2 Years Experience</h2>
                             </div>
                             <div className="about-text">
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida
+                                    Over a year experienced in developing mobile casual games. Implemented many gamification features such as achievement, mission and reward, tutorial.
                                 </p>
+                                <p>
+                                    Worked with peer-to-peer online game made ultilizing PUN technology. Supports up to 8 players per match with reconnection, lag compensation and buffered RPCs.
+                                </p>
+                                <p>
+                                    Developed gamificaition features on Microsoft Playfab: Storing player achievements, rewards and tracking player events. Auto refresh, lock event contents.
+                                </p>
+
                             </div>
-                            <div className="skills">
-                                <div className="skill-name">
-                                    <p>Web Design</p><p>85%</p>
-                                </div>
-                                <div className="progress">
-                                    <div className="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div className="skill-name">
-                                    <p>Web Development</p><p>95%</p>
-                                </div>
-                                <div className="progress">
-                                    <div className="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div className="skill-name">
-                                    <p>Apps Design</p><p>90%</p>
-                                </div>
-                                <div className="progress">
-                                    <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <div className="skill-name">
-                                    <p>Apps Development</p><p>85%</p>
-                                </div>
-                                <div className="progress">
-                                    <div className="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                            </div>
-                            <a className="btn" href="">Learn More</a>
+                            
+                            <a className="btn" href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-c%C3%B4ng-qu%E1%BB%91c-c%C6%B0%E1%BB%9Dng-47101b16b/">Linkedin</a>
                         </div>
                     </div>
                 </div>
@@ -91,19 +73,19 @@ const Content = () => {
         <div className="service" id="service">
             <div className="container">
                 <div className="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>What I do</p>
-                    <h2>Awesome Quality Services</h2>
+                    <p>My skills</p>
+                    <h2>Software engineering and game development</h2>
                 </div>
                 <div className="row">
                     <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.0s">
                         <div className="service-item">
                             <div className="service-icon">
-                                <i className="fa fa-laptop"></i>
+                                <i className="fa fa-gamepad"></i>
                             </div>
                             <div className="service-text">
-                                <h3>Web Design</h3>
+                                <h3>Game Design</h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
+                                    My favorite game genre is RTS. So I'm really interested in balancing characters, character counter charts and designing actions for player to do base on the fase of the game.
                                 </p>
                             </div>
                         </div>
@@ -114,9 +96,9 @@ const Content = () => {
                                 <i className="fa fa-laptop-code"></i>
                             </div>
                             <div className="service-text">
-                                <h3>Web Development</h3>
+                                <h3>Game Development</h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
+                                    I'm familiar with game development in Unity and programming in general. My most used programming language is C#.
                                 </p>
                             </div>
                         </div>
@@ -124,29 +106,17 @@ const Content = () => {
                     <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div className="service-item">
                             <div className="service-icon">
-                                <i className="fab fa-android"></i>
+                                <i className="fa fa-code"></i>
                             </div>
                             <div className="service-text">
-                                <h3>Apps Design</h3>
+                                <h3>Software development</h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
+                                    I have general knowledge with database systems and programming patterns, principles (SOLID, OOP design patterns)
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
-                        <div className="service-item">
-                            <div className="service-icon">
-                                <i className="fab fa-apple"></i>
-                            </div>
-                            <div className="service-text">
-                                <h3>Apps Development</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phase nec preti mi. Curabi facilis ornare velit non
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -163,9 +133,9 @@ const Content = () => {
                 <div className="timeline">
                     <div className="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                         <div className="timeline-text">
-                            <div className="timeline-date">2045 - 2050</div>
-                            <h2>Web Developer</h2>
-                            <h4>Soft Agency, San Francisco, CA</h4>
+                            <div className="timeline-date">05/2022 - 03/2023</div>
+                            <h2>Unity Developer</h2>
+                            <h4>Tego Global, Ho Chi Minh, VN</h4>
                             <p>
                                 Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
                             </p>
@@ -173,9 +143,9 @@ const Content = () => {
                     </div>
                     <div className="timeline-item right wow slideInRight" data-wow-delay="0.1s">
                         <div className="timeline-text">
-                            <div className="timeline-date">2045 - 2050</div>
-                            <h2>Web Developer</h2>
-                            <h4>Soft Agency, San Francisco, CA</h4>
+                            <div className="timeline-date">06/2023 - 10/2023</div>
+                            <h2>Unity Developer</h2>
+                            <h4>MGIF, Ho Chi Minh, VN</h4>
                             <p>
                                 Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
                             </p>
@@ -183,39 +153,9 @@ const Content = () => {
                     </div>
                     <div className="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                         <div className="timeline-text">
-                            <div className="timeline-date">2045 - 2050</div>
-                            <h2>Web Developer</h2>
-                            <h4>Soft Agency, San Francisco, CA</h4>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                            </p>
-                        </div>
-                    </div>
-                    <div className="timeline-item right wow slideInRight" data-wow-delay="0.1s">
-                        <div className="timeline-text">
-                            <div className="timeline-date">2045 - 2050</div>
-                            <h2>Web Developer</h2>
-                            <h4>Soft Agency, San Francisco, CA</h4>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                            </p>
-                        </div>
-                    </div>
-                    <div className="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
-                        <div className="timeline-text">
-                            <div className="timeline-date">2045 - 2050</div>
-                            <h2>Web Developer</h2>
-                            <h4>Soft Agency, San Francisco, CA</h4>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                            </p>
-                        </div>
-                    </div>
-                    <div className="timeline-item right wow slideInRight" data-wow-delay="0.1s">
-                        <div className="timeline-text">
-                            <div className="timeline-date">2045 - 2050</div>
-                            <h2>Web Developer</h2>
-                            <h4>Soft Agency, San Francisco, CA</h4>
+                            <div className="timeline-date">01/2023 - Present</div>
+                            <h2>Unity Developer</h2>
+                            <h4>BHO Media, Buon Ma Thuot, VN</h4>
                             <p>
                                 Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
                             </p>
@@ -229,16 +169,11 @@ const Content = () => {
         
         {/* <!-- Banner Start --> */}
         <div className="banner wow zoomIn" data-wow-delay="0.1s">
+        
             <div className="container">
                 <div className="section-header text-center">
-                    <p>Reasonable Price</p>
-                    <h2>Get A <span>Special</span> Price</h2>
-                </div>
-                <div className="container banner-text">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. 
-                    </p>
-                    <a className="btn">Pricing Plan</a>
+                    {/* <p>Presentation!</p> */}
+                    <h2>Come see my <span>works</span></h2>
                 </div>
             </div>
         </div>
