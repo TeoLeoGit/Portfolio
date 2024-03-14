@@ -187,7 +187,7 @@ const Content = () => {
                     <p>My Portfolio</p>
                     <h2>My Excellent Portfolio</h2>
                 </div>
-                <div className="row">
+                {/* <div className="row">
                     <div className="col-12">
                         <ul id="portfolio-filter">
                             <li data-filter="*" className="filter-active">All</li>
@@ -196,27 +196,27 @@ const Content = () => {
                             <li data-filter=".filter-3">Game Dev</li>
                         </ul>
                     </div>
-                </div>
+                </div> */}
                 <div className="row portfolio-container">
                     <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-1 wow fadeInUp" data-wow-delay="0.0s">
                         <div className="portfolio-wrap">
                             <div className="portfolio-img">
-                                <img src="img/portfolio-1.jpg" alt="Image"/>
+                                <img src="img/EggTap.PNG" alt="Image"/>
                             </div>
                             <div className="portfolio-text">
-                                <h3>eCommerce Website</h3>
-                                <a className="btn" href="img/portfolio-1.jpg" data-lightbox="portfolio">+</a>
+                                <h3>Tego - EggTap</h3>
+                                <a className="btn" href="https://www.youtube.com/watch?v=LEu5JhMfMzQ&ab_channel=BrokenEggs" target="_blank">+</a>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 wow fadeInUp" data-wow-delay="0.2s">
                         <div className="portfolio-wrap">
                             <div className="portfolio-img">
-                                <img src="img/portfolio-2.jpg" alt="Image"/>
+                                <img src="img/MetalArena.PNG" alt="Image"/>
                             </div>
                             <div className="portfolio-text">
-                                <h3>Product Landing Page</h3>
-                                <a className="btn" href="img/portfolio-2.jpg" data-lightbox="portfolio">+</a>
+                                <h3>Tego - MetalArena</h3>
+                                <a className="btn" href="https://www.youtube.com/watch?v=ZAFcEKLujY4&ab_channel=BrokenEggs" target="_blank">+</a>
                             </div>
                         </div>
                     </div>
