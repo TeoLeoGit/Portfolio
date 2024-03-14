@@ -25,6 +25,14 @@ const Footer = () => {
                     <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved | Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
                 </div>
             </div>
+
+            {/* <!-- Back to top button --> */}
+            <a href="#" className="btn back-to-top"><i className="fa fa-chevron-up"></i></a>
+            
+            {/* <!-- Pre Loader --> */}
+            <div id="loader" className="show">
+                <div className="loader"></div>
+            </div>
         </section>
     )
 }
