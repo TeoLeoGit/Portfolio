@@ -11,7 +11,7 @@ const Content = () => {
                         <div className="hero-content">
                             <div className="hero-text">
                                 <p>I'm</p>
-                                <h1>Truong Cong Quoc Cuong</h1>
+                                <h1>Trương Công Quốc Cường</h1>
                                 <h2></h2>
                                 <div className="typed-text">Web Designer, Web Developer, Front End Developer, Apps Designer, Apps Developer</div>
                             </div>
@@ -268,311 +268,25 @@ const Content = () => {
             </div>
         </div>
         {/* <!-- Portfolio End --> */}
-        
-        
+
         {/* <!-- Banner Start --> */}
-        <div className="banner wow zoomIn" data-wow-delay="0.1s">
-            <div className="container">
-                <div className="section-header text-center">
-                    <p>Awesome Discount</p>
-                    <h2>Get <span>30%</span> Discount</h2>
-                </div>
-                <div className="container banner-text">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. 
-                    </p>
-                    <a className="btn">Order Now</a>
-                </div>
-            </div>
-        </div>
-        {/* <!-- Banner End --> */}
-        
-        {/* <!-- Price Start --> */}
-        <div className="price" id="price">
-            <div className="container">
-                <div className="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>Pricing Plan</p>
-                    <h2>Affordable Price</h2>
-                </div>
-                <div className="row">
-                    <div className="col-md-4 wow fadeInUp" data-wow-delay="0.5s">
-                        <div className="price-item">
-                            <div className="price-header">
-                                <div className="price-title">
-                                    <h2>Basic</h2>
-                                </div>
-                                <div className="price-prices">
-                                    <h2><small>$</small>49<span>/ mo</span></h2>
-                                </div>
-                            </div>
-                            <div className="price-body">
-                                <div className="price-description">
-                                    <ul>
-                                        <li>Bootstrap 4</li>
-                                        <li>Font Awesome 5</li>
-                                        <li>Responsive Design</li>
-                                        <li>Browser Compatibility</li>
-                                        <li>Easy To Use</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="price-footer">
-                                <div className="price-action">
-                                    <a className="btn" href="">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-4 wow fadeInUp" data-wow-delay="0.0s">
-                        <div className="price-item featured-item">
-                            <div className="price-header">
-                                <div className="price-title">
-                                    <h2>Standard</h2>
-                                </div>
-                                <div className="price-prices">
-                                    <h2><small>$</small>99<span>/ mo</span></h2>
-                                </div>
-                            </div>
-                            <div className="price-body">
-                                <div className="price-description">
-                                    <ul>
-                                        <li>Bootstrap 4</li>
-                                        <li>Font Awesome 5</li>
-                                        <li>Responsive Design</li>
-                                        <li>Browser Compatibility</li>
-                                        <li>Easy To Use</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="price-footer">
-                                <div className="price-action">
-                                    <a className="btn" href="">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-4 wow fadeInUp" data-wow-delay="0.5s">
-                        <div className="price-item">
-                            <div className="price-header">
-                                <div className="price-title">
-                                    <h2>Premium</h2>
-                                </div>
-                                <div className="price-prices">
-                                    <h2><small>$</small>149<span>/ mo</span></h2>
-                                </div>
-                            </div>
-                            <div className="price-body">
-                                <div className="price-description">
-                                    <ul>
-                                        <li>Bootstrap 4</li>
-                                        <li>Font Awesome 5</li>
-                                        <li>Responsive Design</li>
-                                        <li>Browser Compatibility</li>
-                                        <li>Easy To Use</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="price-footer">
-                                <div className="price-action">
-                                    <a className="btn" href="">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        {/* <!-- Price End --> */}
-        
-        
-        {/* <!-- Testimonial Start --> */}
-        <div className="testimonial wow fadeInUp" data-wow-delay="0.1s" id="review">
-            <div className="container">
-                <div className="testimonial-icon">
-                    <i className="fa fa-quote-left"></i>
-                </div>
-                <div className="owl-carousel testimonials-carousel">
-                    <div className="testimonial-item">
-                        <div className="testimonial-img">
-                            <img src="img/testimonial-1.jpg" alt="Image"/>
-                        </div>
-                        <div className="testimonial-text">
-                            <p>
-                                Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis suscip justo dictum. Lorem ipsum dolor sit amet consec adipis elit.
-                            </p>
-                            <h3>Customer Name</h3>
-                            <h4>Profession</h4>
-                        </div>
-                    </div>
-                    <div className="testimonial-item">
-                        <div className="testimonial-img">
-                            <img src="img/testimonial-2.jpg" alt="Image"/>
-                        </div>
-                        <div className="testimonial-text">
-                            <p>
-                                Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis suscip justo dictum. Lorem ipsum dolor sit amet consec adipis elit.
-                            </p>
-                            <h3>Customer Name</h3>
-                            <h4>Profession</h4>
-                        </div>
-                    </div>
-                    <div className="testimonial-item">
-                        <div className="testimonial-img">
-                            <img src="img/testimonial-3.jpg" alt="Image"/>
-                        </div>
-                        <div className="testimonial-text">
-                            <p>
-                                Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis suscip justo dictum. Lorem ipsum dolor sit amet consec adipis elit.
-                            </p>
-                            <h3>Customer Name</h3>
-                            <h4>Profession</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        {/* <!-- Testimonial End --> */}
-
-
-        {/* <!-- Team Start --> */}
-        <div className="team" id="team">
-            <div className="container">
-                <div className="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>My Team</p>
-                    <h2>Expert Team Members</h2>
-                </div>
-                <div className="row">
-                    <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.0s">
-                        <div className="team-item">
-                            <div className="team-img">
-                                <img src="img/team-1.jpg" alt="Image"/>
-                            </div>
-                            <div className="team-text">
-                                <h2>Mollie Ross</h2>
-                                <h4>Web Designer</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet consec adipis elit. Etiam accum lacus
-                                </p>
-                                <div className="team-social">
-                                    <a className="btn" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-linkedin-in"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div className="team-item">
-                            <div className="team-img">
-                                <img src="img/team-2.jpg" alt="Image"/>
-                            </div>
-                            <div className="team-text">
-                                <h2>Dylan Adams</h2>
-                                <h4>Web Developer</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet consec adipis elit. Etiam accum lacus
-                                </p>
-                                <div className="team-social">
-                                    <a className="btn" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-linkedin-in"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
-                        <div className="team-item">
-                            <div className="team-img">
-                                <img src="img/team-3.jpg" alt="Image"/>
-                            </div>
-                            <div className="team-text">
-                                <h2>Jennifer Page</h2>
-                                <h4>Apps Designer</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet consec adipis elit. Etiam accum lacus
-                                </p>
-                                <div className="team-social">
-                                    <a className="btn" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-linkedin-in"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
-                        <div className="team-item">
-                            <div className="team-img">
-                                <img src="img/team-4.jpg" alt="Image"/>
-                            </div>
-                            <div className="team-text">
-                                <h2>Josh Dunn</h2>
-                                <h4>Apps Developer</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet consec adipis elit. Etiam accum lacus
-                                </p>
-                                <div className="team-social">
-                                    <a className="btn" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-linkedin-in"></i></a>
-                                    <a className="btn" href=""><i className="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        {/* <!-- Team End --> */}
-        
-        
-        {/* <!-- Contact Start --> */}
-        <div className="contact wow fadeInUp" data-wow-delay="0.1s" id="contact">
-            <div className="container-fluid">
+            <div className="banner wow zoomIn" data-wow-delay="0.1s">
                 <div className="container">
-                    <div className="row align-items-center">
-                        <div className="col-md-4"></div>
-                        <div className="col-md-8">
-                            <div className="contact-form">
-                                <div id="success"></div>
-                                <form name="sentMessage" id="contactForm" noValidate="novalidate">
-                                    <div className="control-group">
-                                        <input type="text" className="form-control" id="name" placeholder="Your Name" required="required" data-validation-required-message="Please enter your name" />
-                                        <p className="help-block"></p>
-                                    </div>
-                                    <div className="control-group">
-                                        <input type="email" className="form-control" id="email" placeholder="Your Email" required="required" data-validation-required-message="Please enter your email" />
-                                        <p className="help-block"></p>
-                                    </div>
-                                    <div className="control-group">
-                                        <input type="text" className="form-control" id="subject" placeholder="Subject" required="required" data-validation-required-message="Please enter a subject" />
-                                        <p className="help-block"></p>
-                                    </div>
-                                    <div className="control-group">
-                                        <textarea className="form-control" id="message" placeholder="Message" required="required" data-validation-required-message="Please enter your message"></textarea>
-                                        <p className="help-block"></p>
-                                    </div>
-                                    <div>
-                                        <button className="btn" type="submit" id="sendMessageButton">Send Message</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
+                    <div className="section-header text-center">
+                        {/* <p>Presentation!</p> */}
+                        <h2>These are my <span>games</span></h2>
                     </div>
                 </div>
             </div>
-        </div>
-        {/* <!-- Contact End --> */}
+        {/* <!-- Banner End --> */}
 
 
         {/* <!-- Blog Start --> */}
         <div className="blog" id="blog">
             <div className="container">
                 <div className="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>From Blog</p>
-                    <h2>Latest Articles</h2>
+                    <p>Projects</p>
+                    <h2>My personal projects</h2>
                 </div>
                 <div className="row">
                     <div className="col-lg-6">
