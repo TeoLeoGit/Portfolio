@@ -30,9 +30,9 @@ const Footer = () => {
             <a href="#" className="btn back-to-top"><i className="fa fa-chevron-up"></i></a>
             
             {/* <!-- Pre Loader --> */}
-            <div id="loader" className="show">
+            {/* <div id="loader" className="show">
                 <div className="loader"></div>
-            </div>
+            </div> */}
         </section>
     )
 }
