@@ -137,7 +137,7 @@ const Content = () => {
                             <h2>Unity Developer</h2>
                             <h4>Tego Global, Ho Chi Minh, VN</h4>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                Worked individually to develop multiplayer mini game ultilizing PUN, Playfab.
                             </p>
                         </div>
                     </div>
@@ -147,7 +147,7 @@ const Content = () => {
                             <h2>Unity Developer</h2>
                             <h4>MGIF, Ho Chi Minh, VN</h4>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                Maintaining products (mostly are platformer games) and adding new gamification features.
                             </p>
                         </div>
                     </div>
@@ -157,7 +157,7 @@ const Content = () => {
                             <h2>Unity Developer</h2>
                             <h4>BHO Media, Buon Ma Thuot, VN</h4>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                Working with team to develop an idle tower defense game.
                             </p>
                         </div>
                     </div>
